@@ -1,0 +1,17 @@
+header{
+    display: flex;
+    background-color: rgb(11, 114, 224);
+    align-items: flex-end;
+}
+
+.animales > h2{
+    font-size: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+    color: darksalmon;
+}
+
+p{
+    font-size: 25px;
+    color: rgb(8, 193, 230);
+}
