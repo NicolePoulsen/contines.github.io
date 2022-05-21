@@ -1,0 +1,23 @@
+header{
+    display: flex;
+    background-color: #1a40e8;
+    align-items: center;
+    
+}
+
+
+.borde img{
+    margin-bottom: 70px;
+}
+
+.platos > h2{
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    color: aqua;
+}
+
+p{
+    font-size: 25px;
+    background-color: cornflowerblue;
+}
